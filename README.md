@@ -10,7 +10,7 @@ coins = {"BTC":3.2, "ADA": 179.38}
 This dictionary says you own 3.2 Bitcoin, and 179.38 ADA.
 
 ## Automatic Script Scheduler
-To run this script every day, create a task using Task Scheduler 
+To run this script every day, create a task using [Task Scheduler](https://stackoverflow.com/a/44873579/16928149) 
 
 ## Disclaimer
 This script only works for Windows
